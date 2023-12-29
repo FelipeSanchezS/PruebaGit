@@ -1,7 +1,16 @@
 body{
-    background-color: turquoise;
+    background-color:rgb(238, 238, 238);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 12px;
     font-style: italic;
     text-align: center;
+}
+#conta{
+    width: 70%;
+    border-color: black;
+    padding: 1em;
+    text-align: left;
+    margin: 109px auto;
+    background-color: rgb(128, 235, 199);
+    border-radius: 45px;
 }
