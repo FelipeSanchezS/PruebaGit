@@ -14,3 +14,10 @@ body{
     background-color: rgb(128, 235, 199);
     border-radius: 45px;
 }
+#cabecera{
+    width: auto;
+    padding: 8px;
+    margin: 0 auto;
+    background-color: azure;
+    border-radius: 12px;
+}
